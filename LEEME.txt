@@ -1,0 +1,46 @@
+MUSICALA | GIMNASIA DACTILAR PARA UKELELE
+=========================================
+
+Abre index.html en el navegador. No se necesita instalación, servidor,
+cuenta, ni conexión para utilizar los ejercicios o las ilustraciones.
+
+CONTENIDO
+- index.html: página principal.
+- styles.css: diseño responsivo y colores institucionales.
+- app.js: práctica interactiva, ejercicios y progreso.
+- assets/logo-musicala.png: logo horizontal extraído del Manual de Identidad Visual Musicala.
+- assets/ukelele-portada.webp y assets/ukelele-practica.webp: imágenes generadas para la portada y los consejos finales.
+- assets/ukelele-ilustracion.svg: dibujo original de ukelele de cuatro cuerdas.
+- assets/mano-guia.webp: imagen generada de la mano, con numeración añadida en la página.
+- assets/mano-dedos.svg: esquema original de la mano.
+- assets/favicon.svg: icono simplificado de la página (no sustituye el logo).
+
+CÓMO USAR LA PRÁCTICA
+1. Selecciona Individuales, Dobles o Intermedios.
+2. Elige la cuerda y la posición sobre el diapasón.
+3. Levanta SOLO los dedos señalados con círculos punteados.
+4. Apóyalos de nuevo antes de pulsar Siguiente movimiento.
+5. Completa cuatro vueltas de cada grupo. Se guarda tu progreso en ese navegador.
+6. Puedes reproducir la secuencia automáticamente cada 2,4 segundos o pausarla.
+
+Los cuatro dedos permanecen situados en cuatro trastes consecutivos de una
+sola cuerda. La sugerencia de empezar en los trastes 5 a 8 es una adaptación
+didáctica para facilitar la posición: no aparece en el documento de origen.
+
+ORIGEN Y MARCA
+- Rutina: archivo de referencia "Gimnasia Dactilar para Ukelele.pdf"
+  Secuencias: Individuales (1, 2, 3, 4); Dobles (12, 23, 34);
+  Intermedios (13, 24, 14). Repetir cuatro veces cada grupo.
+- Branding: "Manual de Identidad Visual" de Musicala (manual_musicala_final.pdf).
+  Colores primarios: #220A63, #0C41C4, #680DBF, #5729FF, #CE0071.
+  Colores secundarios: #0C0A1E, #121223, #232323, #E6E8E8, #F9F9F9.
+  Tipografía preferida: Roboto (la página incluye fallback tipográfico sin conexión).
+
+PUBLICACIÓN
+- Para subirla a GitHub Pages o Firebase Hosting, publica todos los archivos
+  manteniendo la estructura de carpetas.
+- No necesita backend ni dependencia JS. Solo la fuente Google Fonts se descarga
+  desde Internet cuando esté disponible; el resto funciona desconectado.
+
+La práctica es una ayuda visual esquemática, no una medición biomecánica. Si
+surge dolor, suspende y descansa.
