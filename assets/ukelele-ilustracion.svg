@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 660" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Ukelele ilustrado</title><desc id="desc">Ilustración original de un ukelele de cuatro cuerdas, con cuerpo de madera color coral y detalles violetas.</desc>
+<defs>
+ <linearGradient id="body" x1="100" y1="260" x2="590" y2="648" gradientUnits="userSpaceOnUse"><stop stop-color="#FFC9B7"/><stop offset=".5" stop-color="#F6A17C"/><stop offset="1" stop-color="#D6788F"/></linearGradient>
+ <linearGradient id="neck" x1="262" y1="76" x2="398" y2="490" gradientUnits="userSpaceOnUse"><stop stop-color="#533582"/><stop offset="1" stop-color="#26124D"/></linearGradient>
+ <linearGradient id="halo" x1="150" y1="80" x2="530" y2="570" gradientUnits="userSpaceOnUse"><stop stop-color="#EEE8FF"/><stop offset="1" stop-color="#DCE7FF" stop-opacity=".7"/></linearGradient>
+ <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="26" stdDeviation="22" flood-color="#220A63" flood-opacity=".17"/></filter>
+</defs>
+<path d="M85 260C29 327 25 447 86 543C150 643 314 654 443 613C559 577 621 470 582 361C558 295 513 268 451 252C398 238 363 207 353 161C338 97 264 75 224 130C194 172 199 210 153 231C125 244 107 244 85 260Z" fill="url(#halo)"/>
+<circle cx="495" cy="152" r="15" fill="#CE0071" opacity=".85"/><circle cx="122" cy="186" r="8" fill="#5729FF" opacity=".75"/>
+<g opacity=".55" stroke="#680DBF" stroke-width="7" stroke-linecap="round"><path d="M483 71v42m-21-21h42"/><path d="M98 547v27m-13-13h27"/></g>
+<g transform="rotate(23 321 331)" filter="url(#shadow)">
+ <path d="M273 84C265 67 266 45 281 34C303 17 354 17 375 36C389 47 389 67 379 85L369 152H285L273 84Z" fill="#754484" stroke="#32135C" stroke-width="8"/>
+ <path d="M292 75c14-13 52-13 66 0" stroke="#9B7AB6" stroke-width="5" stroke-linecap="round"/>
+ <rect x="293" y="108" width="68" height="316" rx="8" fill="url(#neck)" stroke="#32135C" stroke-width="7"/>
+ <rect x="288" y="108" width="78" height="10" rx="4" fill="#E9D6CA"/>
+ <g stroke="#C9ABD9" stroke-width="4" opacity=".86"><path d="M294 150h66M294 194h66M294 237h66M294 276h66M294 313h66M294 347h66M294 380h66"/></g>
+ <circle cx="327" cy="215" r="5" fill="#E7D9FF"/><circle cx="327" cy="294" r="5" fill="#E7D9FF"/><circle cx="327" cy="362" r="5" fill="#E7D9FF"/>
+ <path d="M291 402C255 367 209 365 163 382C105 404 96 446 107 493C115 531 143 556 189 567C236 579 248 594 259 607C283 634 365 634 389 607C400 594 412 579 459 567C505 556 533 531 541 493C552 446 543 404 485 382C439 365 393 367 357 402L291 402Z" fill="url(#body)" stroke="#A75E71" stroke-width="9"/>
+ <path d="M131 454c-12 46 15 88 48 96" stroke="#FFDAD0" stroke-width="12" stroke-linecap="round" opacity=".5"/>
+ <ellipse cx="326" cy="466" rx="65" ry="67" fill="#682B69" stroke="#F9D3A9" stroke-width="13"/>
+ <ellipse cx="326" cy="466" rx="47" ry="48" fill="#25102F"/>
+ <path d="M255 556Q326 566 397 556" stroke="#FFDDC7" stroke-width="6" opacity=".65" stroke-linecap="round"/>
+ <rect x="269" y="545" width="116" height="22" rx="9" fill="#70416D"/>
+ <rect x="276" y="546" width="102" height="8" rx="4" fill="#D3A5AD"/>
+ <g stroke="#F8E3D6" stroke-linecap="round"><path stroke-width="1.7" d="M306 55V548"/><path stroke-width="1.4" d="M319 55V548"/><path stroke-width="1.15" d="M333 55V548"/><path stroke-width=".9" d="M346 55V548"/></g>
+ <g fill="#DECBE5" stroke="#4D2B69" stroke-width="4">
+ <rect x="246" y="47" width="32" height="15" rx="6"/><rect x="246" y="87" width="32" height="15" rx="6"/><rect x="373" y="47" width="32" height="15" rx="6"/><rect x="373" y="87" width="32" height="15" rx="6"/>
+ </g>
+ <g fill="#352052"><circle cx="293" cy="54" r="8"/><circle cx="293" cy="94" r="8"/><circle cx="361" cy="54" r="8"/><circle cx="361" cy="94" r="8"/></g>
+</g>
+<path d="M506 552c8-13 21-20 36-19" stroke="#CE0071" stroke-linecap="round" stroke-width="6"/>
+</svg>

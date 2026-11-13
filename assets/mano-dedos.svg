@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 390" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Numeración de los dedos</title><desc id="desc">Ilustración esquemática de la mano que utiliza el diapasón. El dedo índice es 1, el medio 2, el anular 3 y el meñique 4.</desc>
+<defs><linearGradient id="skin" x1="110" y1="84" x2="312" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#F9C9AB"/><stop offset="1" stop-color="#E9A7A5"/></linearGradient><filter id="s" x="0" y="0" width="450" height="390"><feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#220A63" flood-opacity=".11"/></filter></defs>
+<circle cx="217" cy="193" r="169" fill="#F2EDFF"/><circle cx="343" cy="102" r="11" fill="#CE0071" opacity=".3"/>
+<g filter="url(#s)" stroke="#CC8E8C" stroke-width="3">
+<path d="M157 290C137 261 114 242 98 215C88 199 95 184 108 180C118 176 126 181 136 194L159 223V127C159 111 169 104 182 104C195 104 202 114 202 128V102C202 84 214 78 226 79C240 79 247 90 247 105V126C249 113 260 108 271 111C283 114 288 125 287 137L285 164C291 153 300 150 309 154C321 159 324 171 322 183L311 263C307 296 288 332 269 350H181C170 328 164 308 157 290Z" fill="url(#skin)" stroke-linejoin="round"/>
+<path d="M202 132v94M247 130v96M286 169v59" stroke="#D59D9A" stroke-width="2" opacity=".5"/>
+</g>
+<g font-family="Roboto,Arial,sans-serif" font-weight="900" text-anchor="middle" font-size="18" fill="white">
+<circle cx="180" cy="128" r="18" fill="#0C41C4"/><text x="180" y="135">1</text>
+<circle cx="225" cy="103" r="18" fill="#5729FF"/><text x="225" y="110">2</text>
+<circle cx="266" cy="135" r="18" fill="#680DBF"/><text x="266" y="142">3</text>
+<circle cx="309" cy="176" r="18" fill="#CE0071"/><text x="309" y="183">4</text>
+</g>
+<path d="M112 348c-17-16-23-36-18-57" stroke="#5729FF" stroke-width="6" stroke-linecap="round" opacity=".35"/>
+<path d="M351 279l17-8m-13 27 20 2" stroke="#CE0071" stroke-width="5" stroke-linecap="round" opacity=".32"/>
+</svg>
